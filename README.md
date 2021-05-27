@@ -1,5 +1,5 @@
 # CellularModules
-Information, cdoe and comparisons of various cellular modules
+Information, code and comparisons of various cellular modules
 by Bill Poulsen
 www.iot-techshop.com
 
